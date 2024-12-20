@@ -15,7 +15,7 @@
 
 ## Requirements
 
-- **Operating System:** macOS [Specify Minimum Version, e.g., macOS Catalina (10.15) or later]
+- **Operating System:** macOS 15.0 or later
 - **Dependencies:** None (All necessary components are bundled within the app)
 
 
